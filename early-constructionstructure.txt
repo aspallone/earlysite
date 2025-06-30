@@ -1,0 +1,8 @@
+early-construction/
+├── index.html
+├── css/
+│   └── style.css
+├── images/
+│   └── [place your images here]
+└── js/
+    └── script.js (optional for interactivity)
