@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Early Construction</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo">🔥 Early Construction</div>
+    <nav>
+      <ul>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a class="cta" href="#quote">Get a Quote</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Rebuilding Trust. Redefining Space.</h1>
+    <p>Specialists in Fire Restoration, Real Estate, and Custom Remodeling.</p>
+    <a href="#quote" class="button">Get a Free Consultation</a>
+  </section>
+
+  <section id="services" class="services">
+    <div class="service">
+      <h3>🔥 Fire Restoration</h3>
+      <p>Emergency cleanup, damage recovery, and structural rehab.</p>
+    </div>
+    <div class="service">
+      <h3>🏡 Real Estate</h3>
+      <p>Smart buying, property flipping, and value-driven sales support.</p>
+    </div>
+    <div class="service">
+      <h3>🛠️ Remodeling</h3>
+      <p>Residential and commercial renovations crafted with care.</p>
+    </div>
+  </section>
+
+  <section id="projects" class="projects">
+    <h2>Featured Projects</h2>
+    <p>[Project gallery will go here]</p>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About Early Construction</h2>
+    <p>We’ve been transforming properties and lives for over a decade...</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Your Email" required />
+      <textarea placeholder="Your Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 Early Construction. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
